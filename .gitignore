@@ -3,3 +3,4 @@ __pycache__
 temp*
 test*
 env*
+.DS_Store
