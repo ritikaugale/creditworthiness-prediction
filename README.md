@@ -81,13 +81,14 @@ git push -uf origin main
   HTTPS:
   `git clone https://gitup.uni-potsdam.de/ugale/creditworthiness-prediction.git`
   
+2. Navigate to project directory:
+  'cd creditworthiness-prediction'
 
+3. Run the jupyter notebook(ipynb file)
 
 ## Authors and acknowledgment
-Show your appreciation to those who have contributed to the project.
+Ritika Ugale
+ritikaugale2000@gmail.com
 
 ## License
-For open source projects, say how it is licensed.
-
-## Project status
-If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
+Licensed under MIT - license
